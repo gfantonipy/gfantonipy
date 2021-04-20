@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Guillermo Fantoni 
 - 👀 I’m interested in Data Science and renewable energies.
 - 🌱 I’m currently learning Data science and other computer tools
-- 💞️ I’m looking to collaborate on analytics projects
+- 💞️ I’m looking to collaborate on analytic projects
 - 📫 How to reach me guillermofantoni11@gmail.com
 
 <!---
